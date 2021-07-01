@@ -1,0 +1,189 @@
+[
+  {
+    "ProductName": "Stan Smith Shoes",
+    "Brand":"Adidas",
+    "GraphicName":"Picture of Stan Smiths",
+    "CostPrice":110,
+    "MSRP":110,
+    "QtyOnHand":5,
+    "QtyOnBackOrder":5,
+    "Description": "Adidas Stan Smiths"
+    
+  },
+  {
+    "ProductName": "ZX 2K Boost 2.0 Shoes",
+    "Brand":"Adidas",
+    "GraphicName":"Picture of ZX 2K Boost 2.0 Shoes",
+    "CostPrice":190,
+    "MSRP":190,
+    "QtyOnHand":2,
+    "QtyOnBackOrder":3,
+    "Description": "Adidas  ZX 2K Boost 2.0 Shoes"
+    
+  },
+  {
+    "ProductName": "ADICOLOR TREFOIL RELAXED TWILL PANTS",
+    "Brand":"Adidas",
+    "GraphicName":"Picture of ADICOLOR TREFOIL RELAXED TWILL PANTS",
+    "CostPrice":120,
+    "MSRP":120,
+    "QtyOnHand":1,
+    "QtyOnBackOrder":10,
+    "Description": "Adidas ADICOLOR TREFOIL RELAXED TWILL PANTS"
+    
+  },
+  {
+    "ProductName": "SWIM SHORTS",
+    "Brand":"Adidas",
+    "GraphicName":"Picture of SWIM SHORTS Clear Mint",
+    "CostPrice":60,
+    "MSRP":60,
+    "QtyOnHand":3,
+    "QtyOnBackOrder":8,
+    "Description": "Adidas SWIM SHORTS"
+    
+  },
+  {
+    "ProductName": "BUCKET HAT",
+    "Brand":"Adidas",
+    "GraphicName":"Picture of BUCKET HAT Black",
+    "CostPrice":40,
+    "MSRP":40,
+    "QtyOnHand":1,
+    "QtyOnBackOrder":5,
+    "Description": "Adidas BUCKET HAT"
+    
+  },
+  {
+    "ProductName": "LIGHT POCKETABLE PARKA",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of LIGHT POCKETABLE PARKA",
+    "CostPrice":69.90,
+    "MSRP":69.90,
+    "QtyOnHand":5,
+    "QtyOnBackOrder":7,
+    "Description": "Uniqlo LIGHT POCKETABLE PARKA"
+    
+  },
+  {
+    "ProductName": "CHINO SHORTS",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of CHINO SHORTS",
+    "CostPrice":29.90,
+    "MSRP":29.90,
+    "QtyOnHand":20,
+    "QtyOnBackOrder":0,
+    "Description": "Uniqlo CHINO SHORTS"
+    
+  },
+  {
+    "ProductName": "CREW NECK LONG-SLEEVE T-SHIRT",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of CREW NECK LONG-SLEEVE T-SHIRT",
+    "CostPrice":19.90,
+    "MSRP":19.90,
+    "QtyOnHand":10,
+    "QtyOnBackOrder":15,
+    "Description": "Uniqlo CREW NECK LONG-SLEEVE T-SHIRT"
+    
+  },
+  {
+    "ProductName": "CREW NECK LONG-SLEEVE T-SHIRT",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of CREW NECK LONG-SLEEVE T-SHIRT",
+    "CostPrice":19.90,
+    "MSRP":19.90,
+    "QtyOnHand":10,
+    "QtyOnBackOrder":15,
+    "Description": "Uniqlo CREW NECK LONG-SLEEVE T-SHIRT"
+    
+  },
+  {
+    "ProductName": "DRY-EX POLO SHIRT",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of DRY-EX POLO SHIRT",
+    "CostPrice":39.90,
+    "MSRP":39.90,
+    "QtyOnHand":5,
+    "QtyOnBackOrder":13,
+    "Description": "Uniqlo DRY-EX POLO SHIRT"
+    
+  },
+  {
+    "ProductName": "SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT",
+    "CostPrice":29.90,
+    "MSRP":29.90,
+    "QtyOnHand":15,
+    "QtyOnBackOrder":0,
+    "Description": "Uniqlo SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT"
+    
+  },
+  {
+    "ProductName": "SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT",
+    "Brand":"Uniqlo",
+    "GraphicName":"Picture of SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT",
+    "CostPrice":29.90,
+    "MSRP":29.90,
+    "QtyOnHand":15,
+    "QtyOnBackOrder":0,
+    "Description": "Uniqlo SUPER NON-IRON SLIM-FIT LONG-SLEEVE SHIRT"
+    
+  },
+  {
+    "ProductName": "Air Jordan 1 Low",
+    "Brand":"Nike",
+    "GraphicName":"Picture of Air Jordan 1 Low",
+    "CostPrice":135,
+    "MSRP":135,
+    "QtyOnHand":8,
+    "QtyOnBackOrder":0,
+    "Description": "Nikes Air Jordan 1 Low"
+    
+  },
+  {
+    "ProductName": "Air Zoom Pegasus 38",
+    "Brand":"Nike",
+    "GraphicName":"Picture of Air Zoom Pegasus 38",
+    "CostPrice":160,
+    "MSRP":160,
+    "QtyOnHand":3,
+    "QtyOnBackOrder":14,
+    "Description": "Nikes Air Zoom Pegasus 38"
+    
+  },
+  {
+    "ProductName": "FFF",
+    "Brand":"Nike",
+    "GraphicName":"Picture of FFF",
+    "CostPrice":130,
+    "MSRP":130,
+    "QtyOnHand":1,
+    "QtyOnBackOrder":23,
+    "Description": "FFF is a Football Tracksuit Jacket."
+    
+  },
+  {
+    "ProductName": "Sportswear",
+    "Brand":"Nike",
+    "GraphicName":"Picture of Sportswear",
+    "CostPrice":42,
+    "MSRP":42,
+    "QtyOnHand":15,
+    "QtyOnBackOrder":22,
+    "Description": "Nikes Sportswear t-shirt"
+    
+  },
+  {
+    "ProductName": "Therma-FIT",
+    "Brand":"Nike",
+    "GraphicName":"Picture of Therma-FIT",
+    "CostPrice":68,
+    "MSRP":68,
+    "QtyOnHand":0,
+    "QtyOnBackOrder":0,
+    "Description": "Nikes Therma-Fit trousers."
+    
+  }
+]
