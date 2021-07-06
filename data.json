@@ -1,5 +1,6 @@
 [
   {
+    "Id":"Adidas_1",
     "ProductName": "Stan Smith Shoes",
     "Brand":"Adidas",
     "GraphicName":"stan_smiths.jpg",
@@ -11,6 +12,7 @@
     
   },
   {
+    "Id":"Adidas_2",
     "ProductName": "ZX 2K Boost 2.0 Shoes",
     "Brand":"Adidas",
     "GraphicName":"boost_shoes.jpg",
@@ -22,6 +24,7 @@
     
   },
   {
+    "Id":"Adidas_3",
     "ProductName": "Adicolor Trefoil Relaxed Twill Pants",
     "Brand":"Adidas",
     "GraphicName":"twil_pants_adidas.jpg",
@@ -33,6 +36,7 @@
     
   },
   {
+    "Id":"Adidas_4",
     "ProductName": "Swim Shorts",
     "Brand":"Adidas",
     "GraphicName":"swim_shorts_adidas.jpg",
@@ -44,6 +48,7 @@
     
   },
   {
+    "Id":"Adidas_5",
     "ProductName": "Bucket Hat",
     "Brand":"Adidas",
     "GraphicName":"adidas_buckethat.jpg",
@@ -55,6 +60,7 @@
     
   },
   {
+    "Id":"Uniqlo_1",
     "ProductName": "Light Pocketable Parka",
     "Brand":"Uniqlo",
     "GraphicName":"uniqlo_parka.jpg",
@@ -66,6 +72,7 @@
     
   },
   {
+    "Id":"Uniqlo_2",
     "ProductName": "Chino Shorts",
     "Brand":"Uniqlo",
     "GraphicName":"uniqlo_shorts.jpg",
@@ -77,6 +84,7 @@
     
   },
   {
+    "Id":"Uniqlo_3",
     "ProductName": "Crew Neck Long-sleeve T-shirt",
     "Brand":"Uniqlo",
     "GraphicName":"men_u_crew_neck.jpg",
@@ -88,6 +96,7 @@
     
   },
   {
+    "Id":"Uniqlo_4",
     "ProductName": "Dry-Ex Polo Shirt",
     "Brand":"Uniqlo",
     "GraphicName":"dry_ex_sleeve.jpg",
@@ -99,6 +108,7 @@
     
   },
   {
+    "Id":"Uniqlo_5",
     "ProductName": "Super Non-iron Slim-fit Long-sleeve Shirt",
     "Brand":"Uniqlo",
     "GraphicName":"uniqlo_noniron.jpg",
@@ -110,6 +120,7 @@
     
   },
   {
+    "Id":"Nike_1",
     "ProductName": "Air Jordan 1 Low",
     "Brand":"Nike",
     "GraphicName":"air_jordan.jpg",
@@ -121,6 +132,7 @@
     
   },
   {
+    "Id":"Nike_2",
     "ProductName": "Air Zoom Pegasus 38",
     "Brand":"Nike",
     "GraphicName":"nike_air_zoom.jpg",
@@ -132,6 +144,7 @@
     
   },
   {
+    "Id":"Nike_3",
     "ProductName": "FFF",
     "Brand":"Nike",
     "GraphicName":"FFF.jpg",
@@ -143,6 +156,7 @@
     
   },
   {
+    "Id":"Nike_4",
     "ProductName": "Sportswear",
     "Brand":"Nike",
     "GraphicName":"sports_wear.jpg",
@@ -154,6 +168,7 @@
     
   },
   {
+    "Id":"Nike_5",
     "ProductName": "Therma-FIT",
     "Brand":"Nike",
     "GraphicName":"therma_fit.jpg",
